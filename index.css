@@ -1,0 +1,48 @@
+body {
+  background-color: #221F2A;
+}
+
+#poster {
+  float: right;
+}
+
+.sjuk {
+  margin: auto;
+  width: 70%;
+  color: #7C7597;
+  font-family: verdana;
+}
+
+h1 {
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+.review {
+  font-size: 1.2rem;
+  text-align: left;
+  border-width: 3px;
+  border-style: double;
+  border-color: #7C7597;
+  padding: 20px;
+  width: 45%;
+}
+
+#reviewnamn {
+  color: white !important;
+  text-decoration: underline;
+}
+
+#reviewtext {
+  color: #FFF58E !important;
+}
+
+#imdb {
+  margin: auto;
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  max-height: 100%;
+  max-width: 100%;
+}
